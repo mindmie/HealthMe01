@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Health Me</string>
+
+    <string name="subtitle">Personal Nutrition Optimization</string>
+    <string name="text_sign_in">Sign-in to your account</string>
+    <string name="text_sign_up">Create your new account</string>
+
+
+    <string name="sign_in">Sign-in</string>
+    <string name="sign_up">Sign-up</string>
+
+    <string name="edit_text_email">E-mail</string>
+    <string name="edit_text_password">Password</string>
+    <string name="edit_text_confirm_password">Confirm Password</string>
+
+    <string name="text_q_title">** Please fill your information for calculation **</string>
+    <string name="text_q_name">What is your name?</string>
+    <string name="text_q_height">What is your height?</string>
+    <string name="text_q_weight">What is your weight?</string>
+    <string name="text_q_age">When you was born?</string>
+    <string name="text_q_gender">What is your gender?</string>
+    <string name="text_q_activity">How is your activity in a week?</string>
+    <string name="text_q_meat">What is your favorite meat?</string>
+    <string name="text_q_options">What do you want to do?</string>
+    <string name="text_q_optimize">Which recommendation do you prefer?</string>
+
+    <string name="text_male">Male</string>
+    <string name="text_female">Female</string>
+
+    <string name="activity_no_exercise">No Exercise : sitting, reading, watching TV</string>
+    <string name="activity_light_exercise">Exercise 1-3 time : Office Working </string>
+    <string name="activity_moderate_exercise">Exercise 3-5 time : Dancer, Lifting Labor </string>
+    <string name="activity_heavy_exercise">Exercise 5-7 time : Athletes, Agriculture Labor </string>
+    <string name="activity_extra_exercise">Exercise 2 time in a day : Heavy Athletes, Logger, Construction Labor</string>
+
+    <string name="option_lose">Lose weight</string>
+    <string name="option_control">Control weight</string>
+
+    <string name="optimize_favorite">Favorite Foods</string>
+    <string name="optimize_cost">Foods cost</string>
+
+
+    <string name="button_next">Next</string>
+
+    <string name="my_signature"> Mindmie Gonna Be Fine 2018</string>
+
+    <string-array name="meat">
+        <item>Pork</item>
+        <item>Chicken</item>
+        <item>Beef</item>
+        <item>Fish</item>
+        <item>Shrimp</item>
+        <item>Seafood</item>
+        <item>All</item>
+        <item>Do not eat meat</item>
+
+    </string-array>
+</resources>

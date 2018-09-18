@@ -1,0 +1,1 @@
+include ':seniorproject', ':app', ':base', ':instantapp'
